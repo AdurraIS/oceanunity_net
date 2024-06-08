@@ -37,7 +37,8 @@ detectar plásticos na superfície da areia, podendo tanto ser utilizada em came
   - PUT "/" - Update
   - DELETE "/{id}"
   - GET "/{id}" - Get By Id
-
+### Endpoints para teste
+Essa api foi desenvolvida para que pudesse ser utilizada sem necessidade de uma ordem a seguir.
 ## Diagrama do Banco de Dados
 ![Banco de dados](https://github.com/AdurraIS/oceanunity_java/assets/119917719/ab83a063-9eb2-405d-b491-249d45f79def)
 ## Estrutura do Projeto
