@@ -40,6 +40,9 @@ detectar plásticos na superfície da areia, podendo tanto ser utilizada em came
 
 ## Diagrama do Banco de Dados
 ![Banco de dados](https://github.com/AdurraIS/oceanunity_java/assets/119917719/ab83a063-9eb2-405d-b491-249d45f79def)
+## Estrutura do Projeto
+![Diagrama](https://github.com/AdurraIS/oceanunity_net/assets/119917719/37042ff9-7615-49f6-848a-8addce99f14e)
+
 
 ## Equipe:
 | Registro | Nome  | Responsabilidade | Disciplinas|
